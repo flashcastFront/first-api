@@ -1,48 +1,15 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "title": "Jacob",
-      "age": "14",
-      "companyId": "1"
-    },
-    {
-      "id": 2,
-      "title": "Michael",
-      "age": "54",
-      "companyId": "2"
-    },
-    {
-      "id": 3,
-      "title": "Klaus",
-      "age": "24",
-      "companyId": "1"
-    },
-    {
-      "title": "alexey",
-      "age": 45,
-      "companyId": "3",
-      "id": 4
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "agentStatusReportTotal": {
+    "readyAgentCount": 20,
+    "pausedAgentCount": 5,
+    "busyAgentCount": 100
   },
-  "companies": [
-    {
-      "id": 1,
-      "name": "Apple",
-      "desc": "reach"
-    },
-    {
-      "id": 2,
-      "name": "Microsoft",
-      "desc": "PC freak"
-    },
-    {
-      "id": 3,
-      "name": "SAP",
-      "desc": "cool"
-    }
-  ]
+  "taskViewTotal": {
+    "tasksCompleted": 1023,
+    "slaCompliantPercentage": 5.9,
+    "averageIdleTime": "72000000",
+    "averageHandlingTime": "820000",
+    "taskCompletionRate": 19,
+    "serviceCenterCode" : "all"
+  }
 }

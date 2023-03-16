@@ -1,0 +1,22 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "Fake Rest Api for testing",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashcastFront/first-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flashcastFront/first-api/issues"
+  },
+  "homepage": "https://github.com/flashcastFront/first-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}

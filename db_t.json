@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Johan",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Marie",
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "name": "Klaus",
+      "companyId": "3"
+    },
+    {
+      "id": "2",
+      "name": "Alexey",
+      "companyId": "3"
+    },
+    {
+      "id": "1",
+      "name": "Hans",
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "title": "Apple",
+      "desc": "Apple Big"
+    },
+    {
+      "id": "2",
+      "title": "Microsoft",
+      "desc": "Pc Freaks..."
+    },
+    {
+      "id": "3",
+      "title": "H&M",
+      "desc": "Clothes ...."
+    }
+  ],
+  "profile": {
+    "name": "typecode",
+    "skils": "TypeScript"
+  }
+}
